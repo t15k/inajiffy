@@ -9,5 +9,5 @@ Zookeeper
 
 Kafka
 -----
-    $ export ZK_CONNECT="172.31.18.110:2181" && export BROKER_ID=1
+    $ export ZK_CONNECT="localhost:2181" && export BROKER_ID=1
     $ curl https://raw.githubusercontent.com/t15k/inajiffy/master/kafka/boot.sh | bash
