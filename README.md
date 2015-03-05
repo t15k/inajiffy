@@ -1,8 +1,7 @@
 Bootstrap scripts
 =================
 
-Small collection of scripts for quickly getting some service up and running on
-a bot.
+Small collection of scripts for quickly getting some service up and running on.
 
 Zookeeper
 ---------
